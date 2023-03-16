@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9131],{7857:(e,t,l)=>{l.r(t),l.d(t,{default:()=>r});var o=l(7294),s=l(7676);const r=()=>o.createElement(s.Z,null,o.createElement("div",null,o.createElement("h1",null,"the rose"),o.createElement("audio",{controls:"controls",loop:"loop",preload:"auto",src:"/music/the rose.mp3"})))}}]);
